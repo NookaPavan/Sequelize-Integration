@@ -1,4 +1,4 @@
-[![Sequelize banner](https://raw.githubusercontent.com/NookaPavan/Sequelize-Integration/sequelize.png)](https://sequelize.org)
+[![Sequelize banner](https://github.com/NookaPavan/Sequelize-Integration/blob/master/sequelize.png)
 
 # Installing
 
